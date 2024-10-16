@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doukansurel&label=Profile%20views&color=0e75b6&style=flat" alt="doukansurel" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 📫 How to reach me **doukan.surel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
